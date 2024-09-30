@@ -131,9 +131,6 @@ ion-icon {
 address {
   font-style: normal;
 }
-.space {
-  padding: 1rem 0;
-}
 
 html {
   font-family: var(--ff-gordita);
@@ -202,6 +199,14 @@ body.active {
 .h1 {
   font-size: var(--fs-3);
   font-weight: var(--fw-400);
+}
+
+.space {
+  padding: 1rem 0;
+}
+
+.hero-image {
+  object-fit: cover;
 }
 
 
