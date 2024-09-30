@@ -131,6 +131,10 @@ ion-icon {
 address {
   font-style: normal;
 }
+.space {
+  padding:1rem 0;
+}
+
 
 html {
   font-family: var(--ff-gordita);
